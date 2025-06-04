@@ -10,9 +10,9 @@
 - 🌱 I'm currently learning **Advanced React patterns, AWS Cloud Services, and System Design**
 - 💼 **MERN Stack Developer** with hands-on experience in full-stack application development
 - 🚀 Built scalable REST APIs and deployed cloud-based applications using **AWS**
-- 👨‍💻 Check out my projects: **[GitHub Repositories](https://github.com/mrityunjay-kumar)**
+- 👨‍💻 Check out my projects: **[GitHub Repositories](https://github.com/mrityu12)**
 - 💬 Ask me about **React.js, Node.js, MongoDB, REST APIs, and Full Stack Development**
-- 📫 How to reach me: **[Email](mailto:your-email@example.com)**
+- 📫 How to reach me: **[Email](mailto:mrityunjay1kumar2@gmail.com)**
 - 📍 Based in **Darbhanga, Bihar** | 📱 **+91 9508054018**
 
 ## 🚀 Professional Experience
@@ -40,19 +40,19 @@
 - **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
 - Built a platform for musicians to collaborate remotely with track uploads and remix tools
 - Implemented user authentication, audio preview, and real-time feedback system
-- **[View Project](https://github.com/your-username/music-collaboration)**
+- **[View Project](https://github.com/mrityu12/music-collaboration)**
 
 ### 🏥 Healthcare Dashboard
 - **Tech Stack:** React.js, CSS Modules, Flexbox
 - Developed a fully responsive React SPA with reusable components
 - Pixel-perfect design implementation with clean UI/UX
-- **[Live Demo](https://your-healthcare-dashboard.vercel.app)** | **[GitHub](https://github.com/your-username/healthcare-dashboard)**
+- **[Live Demo](https://your-healthcare-dashboard.vercel.app)** | **[GitHub](https://github.com/mrityu12/healthcare-dashboard)**
 
 ### 💬 Mini Chat App
 - **Tech Stack:** React.js, Node.js, Socket.io, JWT
 - Real-time messaging system with WebSocket integration
 - Secure authentication using JWT tokens
-- **[View Project](https://github.com/your-username/chat-app)**
+- **[View Project](https://github.com/mrityu12/chat-app)**
 
 ## 🏅 Achievements & Certifications
 
@@ -107,13 +107,13 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
+  <a href="https://www.linkedin.com/in/mrityunjay12/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:your-email@example.com" target="blank">
+  <a href="mailto:mrityunjay1kumar2@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
   </a>
-  <a href="https://github.com/your-username" target="blank">
+  <a href="https://github.com/mrityu12" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
 </p>
@@ -121,13 +121,13 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact" alt="your-username" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityu12&show_icons=true&locale=en&layout=compact" alt="mrityu12" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrityu12&show_icons=true&locale=en" alt="mrityu12" />
 </p>
 
 ---
 
-⭐️ From [Mrityunjay Kumar](https://github.com/your-username)
+⭐️ From [Mrityunjay Kumar](https://github.com/mrityu12)
